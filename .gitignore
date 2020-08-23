@@ -1,0 +1,8 @@
+node_modules
+bin
+bundle
+static
+.project
+test
+.settings
+/.metadata/

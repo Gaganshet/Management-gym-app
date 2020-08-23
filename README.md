@@ -1,1 +1,1 @@
-# Management-gym-app
+# Gym_Management
